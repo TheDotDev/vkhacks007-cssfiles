@@ -1,0 +1,18 @@
+/*
+// Stylesheets For black codes
+// Created by vivek singh 
+//grab this project : Github
+// Http://vkhacks007.github.io/css/vkhacks007-css-code-highliter.css
+// Copyright 2018. All Rights Reserved
+*/
+/* General
+********************************************* */
+pre {
+	background:#666666; /* change background of box  Replace '#666666' with your color code */
+	overflow:auto;
+	color:#fff;   /* change font coloro   Replace '#fff' with your color code */
+    padding:5px 10px;
+	}
+code {}
+/*vkhacks007
+********** Thankyou********************** */
